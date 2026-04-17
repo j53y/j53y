@@ -1,4 +1,4 @@
-![banner](sewer.jpg)
+![banner](banner.jpg)
 ---
 ### **interested in**
 > - discord bots
